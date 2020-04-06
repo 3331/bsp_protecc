@@ -5,3 +5,6 @@ http://gnuwin32.sourceforge.net/packages/bzip2.htm
 x86_64-w64-mingw32-g++ protecc.c --static -o protecc.exe
 
 g++ protecc.c --static -o protecc
+
+
+Usage: protecc.exe <bsp_file>
